@@ -4,4 +4,4 @@
 
 ## 使用方法
 
-1. `SpringTransactionDemoApplicationTests.save()` 方法
+1. 运行 `SpringTransactionDemoApplicationTests.save()` 方法
